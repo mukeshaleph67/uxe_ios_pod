@@ -9,6 +9,6 @@ spec.author       = { "mukesh" => "mukesh@aleph-labs.com" }
 spec.platform     = :ios
 spec.ios.deployment_target = "10.0"
 spec.source       = { :git => "https://github.com/mukeshaleph67/uxe_ios_pod.git", :tag => "0.0.1" }
-spec.source_files    = 'Classes/*'
+spec.source_files    = 'uxe_ios_pod'
 
 end
